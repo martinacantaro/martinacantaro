@@ -1,3 +1,3 @@
 # Hi, I'm Martina
 
-I work at https://lambdaclass.com/
+I'm a developer at https://lambdaclass.com/
